@@ -1,0 +1,154 @@
+
+School: 
+California State University Northridge (CSUN)
+
+Majors provided at CSUN:
+Accountancy: Professional Accountancy Option, B.S.
+Accountancy: Information Systems Option, B.S.
+Africana Studies: African and African-American Social Sciences Option, B.A.
+Africana Studies: African and African-American Humanities and Cultural Studies Option, B.A.
+Africana Studies: African-American Urban Education Option, B.A.
+Anthropology, B.A.
+Art, B.A.
+Asian American Studies: Standard Major Option, B.A.
+Asian American Studies: Double Major Option, B.A.
+Athletic Training, B.S.
+Biochemistry, B.S.
+Biology, B.A.
+Biology: Cell and Molecular Biology Option, B.S.
+Biology: Ecology and Evolutionary Biology Option, B.S.
+Biology: Microbiology Option, B.S.
+Biology: Biotechnology/Medical Technology Option, B.S.
+Biology: Marine Biology Option, B.S.
+Business Administration: Business Analytics Option, B.S.
+Business Administration: Business Law Option, B.S.
+Business Administration: Financial Analysis Option, B.S.
+Business Administration: Financial Planning Option, B.S.
+Business Administration: Global Supply Chain Management Option, B.S.
+Business Administration: Management Option, B.S.
+Business Administration: Marketing Option, B.S.
+Business Administration: Real Estate Option, B.S.
+Business Administration: Risk Management and Insurance Option, B.S.
+Business Administration: Systems and Operations Management Option, B.S.
+Central American Studies: Standard Major Option, B.A.
+Central American Studies: Double Major Option, B.A.
+Chemistry, B.A.
+Chemistry, B.S.
+Chicano and Chicana Studies: Single Major Option, B.A.
+Chicano and Chicana Studies: Double Major Option, B.A.
+Chicano and Chicana Studies: Chicana/o Studies Social Science Subject Matter Waiver Program Option, B.A.
+Child and Adolescent Development: Applied Developmental Science Option, B.A.
+Child and Adolescent Development: Early Childhood Development Option, B.A.
+Cinema and Television Arts: Entertainment Media Management Option, B.A.
+Cinema and Television Arts: Film Production Option, B.A.
+Cinema and Television Arts: Media Theory and Criticism Option, B.A.
+Cinema and Television Arts: Emerging Media Production Option, B.A.
+Cinema and Television Arts: Screenwriting Option, B.A.
+Cinema and Television Arts: Television Production Option, B.A.
+Civil Engineering, B.S.
+Communication Studies, B.A.
+Communicative Disorders, B.A.
+Computer Engineering, B.S.
+Computer Information Technology, B.S.
+Computer Science, B.S.
+Construction Management, B.S.
+Consumer Sciences: Consumer Affairs Option, B.S.
+Consumer Sciences: Family and Consumer Sciences Option, B.S.
+Criminology and Justice Studies, B.A.
+Deaf Studies, B.A.
+Economics, B.A.
+Electrical Engineering, B.S.
+Engineering Management Technology, B.S.
+English: Literature Option, B.A.
+English: Creative Writing Option, B.A.
+English: Subject Matter Program for the Single Subject Credential Option, B.A.
+English: Four-Year Integrated (FYI) English Subject Matter Program for the Single Subject Credential Option, B.A.
+English: Junior-Year Integrated (JYI) English Subject Matter Program for the Single Subject Credential Option, B.A.
+English: Honors Option, B.A.
+Environmental and Occupational Health, B.S.
+Environmental and Occupational Health: Industrial Hygiene Option, B.S.
+Environmental Science, B.A.
+Family and Consumer Sciences: Family Studies Option, B.S.
+Fashion Design and Merchandising: Fashion Design and Production Option, B.S.
+Fashion Design and Merchandising: Fashion Merchandising Option, B.S.
+Fashion Design and Merchandising: Textiles Option, B.S.
+Gender and Women’s Studies, B.A.
+Gender and Women’s Studies: Double Major Option, B.A.
+Geographic Information Science, B.S.
+Geography and Environmental Studies, B.S.
+Geology: Geology Option, B.S.
+Geology: Geophysics Option, B.S.
+Health Administration, B.S.
+History, B.A.
+History: Four-Year Integrated (FYI) History Subject Matter Program for the Single Subject Credential Option, B.A.
+History: Junior-Year Integrated (JYI) History Subject Matter Program for the Single Subject Credential Option, B.A.
+Information Systems: Business Systems Option, B.S.
+Information Systems: Software Technology Option, B.S.
+Information Systems: Computer Information Technology Option, B.S.
+Information Systems: Health Systems Option, B.S.
+Interdisciplinary Studies, B.A.
+Interior Design, B.S.
+Jewish Studies, B.A.
+Journalism, B.A.
+Journalism: Broadcast Option, B.A.
+Journalism: Public Relations Option, B.A.
+Kinesiology: Exercise Science Option, B.S.
+Kinesiology: Dance Option, B.S.
+Kinesiology: Sport Studies Option, B.S.
+Kinesiology: Applied Fitness and Active Lifestyle Development Option, B.S.
+Kinesiology: Physical Education Option, B.S.
+Languages and Cultures: Armenian Option, B.A.
+Languages and Cultures: French Option, B.A.
+Languages and Cultures: Italian Option, B.A.
+Languages and Cultures: Japanese Option, B.A.
+Liberal Studies: Pre-Credential Program Option, B.A.
+Liberal Studies: Integrated Teacher Education Program (ITEP) Junior Option, B.A.
+Liberal Studies: Integrated Teacher Education Program (ITEP) Freshman Option, B.A.
+Linguistics, B.A.
+Manufacturing Systems Engineering, B.S.
+Mathematics: General Option, B.A.
+Mathematics: Secondary Teaching Option, B.A.
+Mathematics: Mathematics Option, B.S.
+Mathematics: Statistics Option, B.S.
+Mathematics: Applied Mathematical Sciences Option, B.S.
+Mathematics: Four-Year Integrated (FYI) Mathematics Subject Matter Program for the Single Subject Credential Option, B.A.
+Mathematics: Junior-Year Integrated (JYI) Mathematics Subject Matter Program for the Single Subject Credential Option, B.A.
+Mechanical Engineering, B.S.
+Music: Breadth Studies Option, B.A.
+Music: Music Industry Studies Option, B.A.
+Music: Music Education Option, B.A.
+Music: Music Therapy Option, B.A.
+Music: Jazz Studies Option, B.M.
+Music: Composition/Commercial and Media Writing Option, B.M.
+Music: Vocal Arts Option, B.M.
+Music: Keyboard Option, B.M.
+Music: Percussion Option, B.M.
+Music: Winds Option, B.M.
+Music: Strings Option, B.M.
+Nursing: Accelerated Option, B.S.
+Nursing: RN to BSN Option, B.S.
+Nutrition, Dietetics and Food Science: Nutrition and Dietetics Option, B.S.
+Nutrition, Dietetics and Food Science: Food Science Option, B.S.
+Philosophy, B.A.
+Philosophy: Double Major Option, B.A.
+Physics, B.A.
+Physics: Physics Option, B.S.
+Physics: Astrophysics Option, B.S.
+Political Science: Politics and Government Option, B.A.
+Political Science: Public Policy and Management Option, B.A.
+Political Science: Law and Society Option, B.A.
+Psychology, B.A.
+Psychology: Honors Option, B.A.
+Public Health, B.S.
+Public Sector Management, B.A.
+Radiologic Sciences, B.S.
+Religious Studies, B.A.
+Religious Studies: Double Major Option, B.A.
+Sociology, B.A.
+Spanish: Literature Option, B.A.
+Spanish: Language and Culture Option, B.A.
+Spanish: Hispanic Linguistics Option, B.A.
+Spanish: Translation and Interpretation Option, B.A.
+Theatre, B.A.
+Tourism, Hospitality, and Recreation Management, B.S.
+Urban Studies and Planning, B.A.
